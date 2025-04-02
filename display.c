@@ -2,6 +2,6 @@
 void main()
 {
 int a;
-a=10;
+a=15;
 printf("A=%d",a);
 }
